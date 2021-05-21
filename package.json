@@ -7,17 +7,12 @@
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "node app.js"
     },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/Harshitbhatt69/hostelWebsite.git"
-    },
     "author": "Harshit",
     "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/Harshitbhatt69/hostelWebsite/issues"
-    },
-    "homepage": "https://github.com/Harshitbhatt69/hostelWebsite#readme",
     "dependencies": {
         "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.7"
     }
 }
